@@ -1,3 +1,4 @@
 <?php
-echo "Welcome Demo site";
+echo "Welcome User";
+echo "My site demo";
 ?>
