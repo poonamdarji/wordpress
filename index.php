@@ -1,12 +1,12 @@
 <?php
-echo "Welcome User";
-echo "Welcome piku patel";
-echo "My site demo";
-echo "how are you!";
-echo "Good bye";
-echo "heyyyyyy";
-echo "hiii poonam";
-echo "hey poonam how r u?";
-echo "hiii pikuuu";
+echo "Welcome User<br>";
+echo "Welcome piku patel<br>";
+echo "My site demo<br>";
+echo "how are you!<br>";
+echo "Good bye<br>";
+echo "heyyyyyy<br>";
+echo "hiii poonam<br>";
+echo "hey poonam how r u?<br>";
+echo "hiii pikuuu<br>";
 ?>
 
